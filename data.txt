@@ -1,0 +1,1 @@
+Model size vs latency tradeoff, caching repeated queries, streaming responses for perceived speed, choosing smaller models for simple sub-tasks (routing) and bigger models only for complex reasoning, rate-limiting/retry logic, and monitoring via tools like LangSmith/LangFuse for token usage and failure tracing.
